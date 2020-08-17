@@ -1,0 +1,117 @@
+body{
+	font-size: 15px;
+	background-color: #e5c1c5;
+}
+/* Header  */
+#nav-bar{
+	background-color: #6eceda;
+	border-radius: 0px;
+}
+a>h1{
+	color: white;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: white;
+ }
+#heade-nav{
+	border-radius: 0;
+	border:0;
+}
+#header-nav button{
+	margin-top: 22px;
+}
+.navbar-brand h1{
+	color: black;
+	font-size: 1.8em;
+}
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 80px;
+    padding-top: 0;
+    padding-left: 10px;
+}
+#nav-list{
+	background-color: white ;
+}
+#nav-list a{
+	color: solid black;
+	font-size: 1.2em;
+
+}
+/* Header ends */
+
+/* Home page */
+#main-content{
+	width:90%;
+	margin-bottom: 20px;
+}
+#main-content h2{
+	font-size: 2.5em;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+#main-content h3{
+	font-size: 1.5em;
+	margin-bottom: 1em;
+}
+#chicken, #beef, #sushi {
+	width: 100%;
+	padding: 20px;
+	background-color: #f2eee5;
+	margin-bottom: 50px;
+	
+}
+/*
+.item{
+	background-color: yellow;
+}
+.button{
+	clear: all;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: red;
+	clear: both;
+}
+p a{
+	color: white;
+	font-size: 1.1em;
+}
+section{
+	background-color: pink;
+	padding: 5px;
+	margin: 20px;
+}
+#chicken{
+	float: right;
+	background-color: grey;
+}
+#beef{
+	float: right;
+	background-color: grey;
+}
+#pork{
+	float: right;
+	background-color: grey;
+}
+p{
+	clear: right;
+}
+.navbar-default .navbar-nav>li>a {
+	background-color: white;
+	color: black;
+	font-size: 1.5em;
+}
+.nav>li{
+	/*border-left: 3px solid black;
+	border-top: 3px solid black;
+	border-right: 3px solid black;*/
+	border: 2px solid black; 
+}
+/*------------------small devices----------*/
+@media (min-width: 768px) (max-width: 991px){
+
+}
+/*---------------very small--------------------*/
+@media (max-width: 767px){
+
+}*/
